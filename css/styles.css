@@ -31,6 +31,8 @@ h2{
 h3{
     color: #11999E;
     font-family: "Montserrat",sans-serif;
+    padding-left: 30%;
+    padding-right: 30%;
 }
 hr{
     
@@ -41,6 +43,9 @@ hr{
     border-top: 5px dotted;
     color: #d8e3e7;
     
+}
+.bold{
+    font-weight: bold;
 }
 .full-stack-developer{
     font-weight: bold;
@@ -87,11 +92,21 @@ hr{
 .pro{
     text-decoration: underline;
 }
+.ml{
+    width:28%;
+    border-radius: 50%;
+    float: right;
+    margin-left:20px;
+    margin-bottom: 20px;
+}
 .Sprituality{
     width:15%;
     border-radius: 50%;
-    float: right;
-    margin-left: 20px;
+    float: left;
+    margin-left:8px;
+    margin-right: 25px;
+    
+    
   
 }
 .Skills{
@@ -164,3 +179,4 @@ hr{
 .weblogo{
     background-color:#98ddca ;
 }
+
